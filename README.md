@@ -1,7 +1,7 @@
 # KirtiKiranJena02
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kirtikiranjena/kirtikiranjena/main/banner.png" alt="Kirti Kiran Jena DevOps Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/kirtikiranjena/kirtikiranjena/main/banner.png" />
 </p>
 
 <!-- Heading Section -->

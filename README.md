@@ -1,7 +1,7 @@
 # KirtiKiranJena02
 <!-- Banner Section -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/kirtikiranjena/kirtikiranjena/main/banner.png" />
+<img src="banner.png" alt="Banner" style="width:100%;" />
 </p>
 
 <!-- Heading Section -->
